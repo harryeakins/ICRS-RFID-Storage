@@ -2,6 +2,12 @@ ICRS RFID Storage
 
 This requires a mysql server running locally.
 
+Todo:
+Make rest available on admin site
+Add unicode methods to all models
+Create a simple webpage which displays currently borrowed items.
+Fill out database with semi-realistic data.
+
 Authors:
 Harry Eakins
 Ryan Savitski
