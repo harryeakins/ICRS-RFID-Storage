@@ -1,5 +1,7 @@
 ICRS RFID Storage
 
+This requires a mysql server running locally.
+
 Authors:
 Harry Eakins
 Ryan Savitski
